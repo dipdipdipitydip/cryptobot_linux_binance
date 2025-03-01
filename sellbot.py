@@ -16,9 +16,9 @@ from datetime import datetime
 import sys
 import time
 
-api_key = " "
+api_key = ""
 
-api_secret = " "
+api_secret = ""
 
 
 
