@@ -1,4 +1,3 @@
-
 from binance import Client, ThreadedWebsocketManager, ThreadedDepthCacheManager
 from binance.client import Client
 import colored
@@ -18,9 +17,9 @@ from playsound import playsound
 import sys
 import time
 
-api_key = " "
+api_key = ""
 
-api_secret = " "
+api_secret = ""
 
 
 print(f"""{Fore.green}
