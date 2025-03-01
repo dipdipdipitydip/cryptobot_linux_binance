@@ -6,9 +6,9 @@ Crypto trade bots written in Python for Linux that use the Binance API
 To use the bots you need to open the python files and 
 paste in your binance API key and secret inside the quote marks:
 
-api_key = ""
+api_key = " "
 
-api_secret = ""
+api_secret = " "
 
 ### Install the dependencies ###
 
