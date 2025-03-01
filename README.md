@@ -35,7 +35,7 @@ pip install asyncio
 pip install playsound 
 
 
-### Run the bot ###
+### Run the python bot ###
 
 python3 buybot.py
 
