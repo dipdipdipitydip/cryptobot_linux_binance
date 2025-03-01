@@ -124,7 +124,7 @@ async def run_websocket():
 
 
     client = Client(api_key, api_secret)
-    trade_coin = input("What coin will you trade? Enter Trade Pair in All CAPS ")
+    trade_coin = input("What coin will you trade? Enter trade pair in all CAPS: ")
     coin_price = client.get_symbol_ticker(symbol=trade_coin)
     trade = float(input(f"{trade_coin} price is {coin_price} what is the price you want to buy {trade_coin} ? "))
     stream = trade_coin + "@kline_1m"
