@@ -2,7 +2,6 @@
 Crypto trade bots written in Python for Linux that use the Binance API 
 
 Video Guide
-
 https://youtu.be/6EcxceZWSHg
 
 ### Binance API Key ###
